@@ -1,29 +1,39 @@
 # RPS
-> ### **Introduction**:
-<br>
-██████╗░░░░██████╗░░░░░██████╗<br>
-██╔══██╗░░░██╔══██╗░░░██╔════╝<br>
-██████╔╝░░░██████╔╝░░░╚█████╗░<br>
-██╔══██╗░░░██╔═══╝░░░░░╚═══██╗<br>
-██║░░██║██╗██║░░░░░██╗██████╔╝<br>
+
+> **Introduction :**
+
+██████╗░░░░██████╗░░░░░██████╗
+██╔══██╗░░░██╔══██╗░░░██╔════╝
+██████╔╝░░░██████╔╝░░░╚█████╗░
+██╔══██╗░░░██╔═══╝░░░░░╚═══██╗
+██║░░██║██╗██║░░░░░██╗██████╔╝
 ╚═╝░░╚═╝╚═╝╚═╝░░░░░╚═╝╚═════╝░
-<br>
 
 ---
-#### Python game to implement Rock Paper Scissor, aginst computer player. <br> Winning Rules of the Rock Paper Scissor game as follows:
+
+Python game to implement Rock Paper Scissor, aginst computer player, Winning Rules of the Rock Paper Scissor game as follows:
+
 - Rock  vs Paper   >> **Paper   (wins)**
 - Rock  vs Scissor >> **Rock    (wins)**
 - Paper vs Scissor >> **Scissor (wins)**
-#### Human & Computer player score will auto update after each try, as simple output **[WIN] [Draw] [LOSE]**
+
+Human & Computer player score will auto update after each try, as simple output **[WIN] [Draw] [LOSE]**
 
 ---
-> ### **Install & Usage**:
-#### install requirements:
+
+> **Install & Usage :**
+
+**| install requirements :**
+
 ```pip install -r requirements.txt```
-#### run:
+
+**| run :**
+
 ```python rps.py```
-#### start game:
-```
+
+**| start game :**
+
+```!
     ██████╗░░░░██████╗░░░░░██████╗
     ██╔══██╗░░░██╔══██╗░░░██╔════╝
     ██████╔╝░░░██████╔╝░░░╚█████╗░
@@ -47,16 +57,20 @@
         2 > Paper.
         3 > Scissor.
     
-	=======================================
-	 || Score || Human 0 || Computer  0 ||
-	=======================================
+=====================================
+|| Score || Human 0 || Computer  0 ||
+=====================================
 
-Select Your Sign > 
+Select Your Sign >
 ```
+
 ---
-> ### **Support distrbutions**:
+
+> **Support distrbutions :**
+
 - **Linux os.**
+
 - **Termux.**
 
 ---
-> #### ***[code]Box*** | ***Andrei A.Abd*** | ***1993-2022*** 
+> ***[code]Box*** | ***Andrei A.Abd*** | ***1993-2022***
