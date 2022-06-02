@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 import random, termcolor, subprocess,time
 
 def info_and_score():
